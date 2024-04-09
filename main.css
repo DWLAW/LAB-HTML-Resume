@@ -1,3 +1,7 @@
 body {
-  background-color: aliceblue;
+  color: aliceblue;
+  background-color: rgb(8, 44, 24);
+}
+ article { 
+  background-color: rgb(21, 139, 41);
 }
